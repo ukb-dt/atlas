@@ -1,9 +1,9 @@
 
-**Columns (our thermodynamic-semiotic cycle)**
-[Noise](https://ukb-dt.github.io/ewf/) → Constraint → Signal → Resonance → Diffusion
- (θ′ → θ → Σ → h(t) → ΔS)           
- (3 → 6 → 9 → 12 → Center)        
- ((x,y) → f(t|x)+ε → dy/dt → d²y/dt² → ∫y dt + εt + C)          
+**Columns (our thermodynamic-semiotic cycle)**                
+[Noise](https://ukb-dt.github.io/ewf/) → Constraint → Signal → Resonance → Diffusion         
+ (θ′ → θ → Σ → h(t) → ΔS)                    
+ (3 → 6 → 9 → 12 → Center)             
+ ((x,y) → f(t|x)+ε → dy/dt → d²y/dt² → ∫y dt + εt + C)                   
 
 Each row will be a world or domain that metabolizes through those five phases.
 One hundred such worlds form an **Atlas of Metabolic Worlds**—a reference table and creative engine, where physics, cognition, myth, and culture all trace the same cycle.
