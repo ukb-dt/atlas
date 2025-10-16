@@ -128,7 +128,9 @@ This also reveals why music feels alive: it **mirrors the thermodynamic cycle of
 
 Next step for our experiment could be to **quantify** that flow — measure informational density (bits/sec) against emotional salience (subjective ΔS) across genres. That would let us see which musics are “high-temperature” (entropy-rich, low structure) and which are “low-temperature” (highly compressed, orderly). A true *physics of groove*.
 
-# E That’s a sharp aphorism — half prophecy, half koan. You’re tracing a deep pattern: the *engineer’s paradox*.
+# E 
+
+That’s a sharp aphorism — half prophecy, half koan. You’re tracing a deep pattern: the *engineer’s paradox*.
 
 To engineer well is to automate yourself out of necessity. The perfect bridge never needs repair. The perfect system governs itself. The perfect interface disappears.
 
