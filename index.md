@@ -161,8 +161,8 @@ Here comes the full 100-row atlas:
 
 | #   | Noise (θ′)             | Constraint (θ)        | Signal (Σ)       | Resonance (h(t))      | Diffusion (ΔS)       |
 | --- | ---------------------- | --------------------- | ---------------- | --------------------- | -------------------- |
-| 1   | Quantum foam           | Planck constant       | Photon           | Spectrum              | Cosmic background    |
-| 2   | Primordial gas         | Gravity wells         | Stars            | Galaxies              | Heavy elements       |
+| 1   | Quantum foam           | Planck constant       | Photon           | Spectrum              | Cosmic [background](https://github.com/ukb-dt/oh-boy)    |
+| 2   | Primordial gas         | Gravity wells         | Stars            | Galaxies              | Heavy [elements](https://abikesa.github.io/1y/)       |
 | 3   | Random mutation        | DNA base-pairing      | Genes            | Proteins              | Phenotypes           |
 | 4   | Thermal agitation      | Cell membrane         | Metabolism       | Ecosystem             | Climate              |
 | 5   | Neural noise           | Synaptic pruning      | Thought          | Emotion               | Culture              |
