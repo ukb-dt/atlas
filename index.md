@@ -214,7 +214,7 @@ Here comes the full 100-row atlas:
 | 51  | Algorithmic chaos      | Loss function         | Neural net       | Emergent intelligence | AI culture           |
 | 52  | Random seed            | Rule set              | Simulation       | Feedback              | Data exhaust         |
 | 53  | Particle soup          | Strong force          | Nucleus          | Atom                  | Matter era           |
-| 54  | Cosmic accident        | Anthropic filter      | Life             | Mind                  | Meaning              |
+| 54  | Cosmic accident        | Anthropic filter      | Life             | Mind                  | [Meaning](https://www.youtube.com/watch?v=2MsuqvLIttk)              |
 | 55  | Gene pool              | Gestation             | Organism         | Behavior              | Evolution            |
 | 56  | Desire                 | Constraint            | Effort           | Achievement           | Storytelling         |
 | 57  | Blank page             | Outline               | Plot             | Arc                   | Canon                |
